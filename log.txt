@@ -1,0 +1,14 @@
+12월 12, 2022 10:57:21 오후 ch1212.MyLogger log
+FINEST: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+FINER: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+FINE: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+CONFIG: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+INFO: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+WARNING: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+SEVERE: test

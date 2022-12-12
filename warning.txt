@@ -1,0 +1,4 @@
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+WARNING: test
+12월 12, 2022 10:57:22 오후 ch1212.MyLogger log
+SEVERE: test
