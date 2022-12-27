@@ -31,4 +31,10 @@ public class Employee {
         this.department = department;
     }
 
+    public Employee() {
+        serialNum++;
+        employeeId = serialNum;
+    }
+
+
 }
