@@ -1,6 +1,6 @@
 package ch1227;
 
-public class Employee {
+public class Employee2 {
     public static int serialNum = 1000;
 
     private int employeeId;
@@ -31,7 +31,7 @@ public class Employee {
         this.department = department;
     }
 
-    public Employee() {
+    public Employee2() {
         serialNum++;
         employeeId = serialNum;
     }
