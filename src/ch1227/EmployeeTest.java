@@ -12,6 +12,9 @@ public class EmployeeTest {
 
         System.out.println(employeeLee.getEmployeeName() + "," + employeeLee.getEmployeeId());
         System.out.println(employeeKim.getEmployeeName() + "," + employeeKim.getEmployeeId());
+
+        System.out.println(Employee.serialNum);
+
     }
 
 
