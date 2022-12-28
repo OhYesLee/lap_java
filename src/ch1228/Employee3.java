@@ -1,13 +1,13 @@
 package ch1228;
 
-public class Employee {
+public class Employee3 {
     private static int serialNum = 1000;
 
     private int employeeId;
     private String employeeName;
     private String department;
 
-    public Employee() {
+    public Employee3() {
         serialNum++;
         employeeId = serialNum;
     }
@@ -20,7 +20,7 @@ public class Employee {
         int i = 0;
 
         //	employeeName = "Lee";  //오류발생
-        Employee.serialNum = serialNum;
+        Employee3.serialNum = serialNum;
     }
 
     public int getEmployeeId() {
