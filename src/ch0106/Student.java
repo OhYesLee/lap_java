@@ -1,5 +1,7 @@
 package ch0106;
 
+import java.util.ArrayList;
+
 public class Student {
     int studentID;
     String studentName;
