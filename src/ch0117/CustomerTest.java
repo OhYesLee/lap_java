@@ -9,11 +9,11 @@ public class CustomerTest {
 
         ArrayList<ch0115.Customer> customerList = new ArrayList<ch0115.Customer>();
 
-        ch0115.Customer customerLee = new ch0115.Customer(10010, "이순신");
-        ch0115.Customer customerShin = new ch0115.Customer(10020, "신사임당");
-        ch0115.Customer customerHong = new GoldCustomer(10030, "홍길동");
-        ch0115.Customer customerYul = new GoldCustomer(10040, "이율곡");
-        ch0115.Customer customerKim = new VIPCustomer(10050, "김유신", 12345);
+        Customer customerLee = new Customer(10010, "이순신");
+        Customer customerShin = new Customer(10020, "신사임당");
+        GoldCustomer customerHong = new GoldCustomer(10030, "홍길동");
+        GoldCustomer customerYul = new GoldCustomer(10040, "이율곡");
+        VIPCustomer customerKim = new VIPCustomer(10050, "김유신", 12345);
 
         customerList.add(customerLee);
         customerList.add(customerShin);

@@ -1,4 +1,6 @@
-package ch0117;
+package ch0115;
+
+import ch0117.Customer;
 
 public class GoldCustomer extends Customer {
 
