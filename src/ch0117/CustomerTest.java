@@ -17,9 +17,9 @@ public class CustomerTest {
 
         customerList.add(customerLee);
         customerList.add(customerShin);
-        customerList.add(customerHong);
-        customerList.add(customerYul);
-        customerList.add(customerKim);
+//        customerList.add(customerHong);
+//        customerList.add(customerYul);
+//        customerList.add(customerKim);
 
         System.out.println("====== 고객 정보 출력 =======");
 
