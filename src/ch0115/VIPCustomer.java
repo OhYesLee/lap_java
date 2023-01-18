@@ -11,13 +11,13 @@ public class VIPCustomer extends Customer {
         super(customerID, customerName);
 
         customerGrade = "VIP";
-        bonusRatio = 0.05;
+//        bonusRatio = 0.05;
         saleRatio = 0.1;
         this.agentID = agentID;
     }
 
     public int calcPrice(int price) {
-        bonusPoint += price * bonusRatio;
+//        bonusPoint += price * bonusRatio;
         return price - (int) (price * saleRatio);
     }
 
