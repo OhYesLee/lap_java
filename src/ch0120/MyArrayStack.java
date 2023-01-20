@@ -1,5 +1,7 @@
 package ch0120;
 
+import ch0118.MyArray;
+
 public class MyArrayStack {
     int top;
     MyArray arrayStack;
